@@ -19,5 +19,5 @@ February 23rd, 2024
 **Description:**        
 Rudimentary calculator written in ARM Assembly for the RealDigital Blackboard
 
-**Changelog:**
+**Changelog:**<br>
 N/A
